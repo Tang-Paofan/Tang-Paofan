@@ -1,6 +1,14 @@
-## Hi there 👋
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=汤泡饭爱汤泡饭&center=true&size=27"> </a> </h1>
 
-![Metrics](https://metrics.lecoq.io/https://github.com/Tang-Paofan?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Tang-Paofan&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tang-Paofan&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tang-Paofan&bg_color=B8CE83&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
+</div>
+
 
 <!--
 **Tang-Paofan/Tang-Paofan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
