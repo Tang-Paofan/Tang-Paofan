@@ -1,4 +1,4 @@
-### Hi there, I'm [Tang-Paofan!](https://github.com/Tang-Paofan/Tang-Paofan/)👋
+### Hi there, I'm [Tang-Paofan!](https://github.com/Tang-Paofan)👋
 
 - 🔭 I’m currently working as a C++ engineer.
 - 🌱 I’m currently learning ...
